@@ -61,3 +61,7 @@ record, not a forecast and not a school recommendation.
 > https://rotatepilot.com/flight-training/flyable-days
 
 Corrections: hello@rotatepilot.com
+
+## Cite this dataset
+
+Rotate Pilot (2026). *US flyable VFR days by airport, 2025* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24298348
