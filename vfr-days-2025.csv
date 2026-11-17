@@ -1,0 +1,101 @@
+rank,icao,airport,city,state,days_with_data,flyable_vfr_days,pct_flyable,student_solo_days,ifr_days,flyable_jan,flyable_feb,flyable_mar,flyable_apr,flyable_may,flyable_jun,flyable_jul,flyable_aug,flyable_sep,flyable_oct,flyable_nov,flyable_dec,solo_jan,solo_feb,solo_mar,solo_apr,solo_may,solo_jun,solo_jul,solo_aug,solo_sep,solo_oct,solo_nov,solo_dec,obs_count,incomplete_year,page
+1,KTUS,Tucson International,Tucson,AZ,365,365,100,287,0,31,28,31,30,31,30,31,31,30,31,30,31,26,25,19,18,19,21,27,30,21,27,26,28,3279,no,https://rotatepilot.com/flight-training/flyable-days/ktus
+2,KIWA,Phoenix-Mesa Gateway,Mesa,AZ,364,364,100,325,0,31,28,31,30,31,30,31,30,30,31,30,31,29,26,23,23,25,24,29,30,27,30,28,31,3113,no,https://rotatepilot.com/flight-training/flyable-days/kiwa
+3,KHND,Henderson Executive,Henderson,NV,363,363,100,264,0,31,28,31,29,31,30,31,31,29,31,30,31,24,21,18,20,21,20,17,19,22,26,27,29,3261,no,https://rotatepilot.com/flight-training/flyable-days/khnd
+4,KDVT,Phoenix Deer Valley,Phoenix,AZ,364,363,99.7,331,0,31,28,31,30,31,30,31,31,28,31,30,31,28,26,25,24,26,26,29,30,26,31,29,31,3265,no,https://rotatepilot.com/flight-training/flyable-days/kdvt
+5,KCHD,Chandler Municipal,Chandler,AZ,364,363,99.7,323,0,31,28,29,30,31,30,31,31,30,31,30,31,29,26,23,24,25,22,29,30,27,29,28,31,3217,no,https://rotatepilot.com/flight-training/flyable-days/kchd
+6,KABQ,Albuquerque International Sunport,Albuquerque,NM,364,360,98.9,274,0,30,28,30,29,31,28,31,31,30,31,30,31,22,20,17,13,19,22,26,28,26,24,28,29,3268,no,https://rotatepilot.com/flight-training/flyable-days/kabq
+7,KGYR,Phoenix Goodyear,Goodyear,AZ,361,359,99.4,323,0,31,28,31,30,30,29,31,31,29,29,30,30,29,25,24,23,25,26,28,31,25,28,29,30,3164,no,https://rotatepilot.com/flight-training/flyable-days/kgyr
+8,KPVU,Provo Municipal,Provo,UT,363,358,98.6,316,2,28,26,31,30,31,29,30,31,30,31,30,31,25,21,24,26,27,26,30,31,28,29,26,23,3260,no,https://rotatepilot.com/flight-training/flyable-days/kpvu
+9,KRYN,Ryan Field,Tucson,AZ,357,356,99.7,298,0,27,28,28,30,31,30,31,31,29,30,30,31,23,24,20,18,19,25,29,30,26,26,29,29,3089,no,https://rotatepilot.com/flight-training/flyable-days/kryn
+10,KSLC,Salt Lake City International,Salt Lake City,UT,365,356,97.5,253,1,29,25,30,30,31,30,31,31,30,30,28,31,26,17,17,21,21,22,17,23,25,20,23,21,3282,no,https://rotatepilot.com/flight-training/flyable-days/kslc
+11,KVGT,North Las Vegas,Las Vegas,NV,355,355,100,237,0,30,28,30,28,31,30,31,29,27,31,30,30,22,18,15,16,18,18,14,16,21,25,26,28,3189,no,https://rotatepilot.com/flight-training/flyable-days/kvgt
+12,KFPR,Treasure Coast International,Fort Pierce,FL,365,352,96.4,247,2,27,27,31,28,30,29,30,31,30,29,30,30,19,18,18,16,19,18,24,29,20,18,25,23,3273,no,https://rotatepilot.com/flight-training/flyable-days/kfpr
+13,KPRC,Ernest A. Love Field,Prescott,AZ,364,350,96.2,223,5,27,28,29,28,30,30,31,31,29,31,25,31,18,21,13,15,18,12,16,18,19,25,21,27,3271,no,https://rotatepilot.com/flight-training/flyable-days/kprc
+14,KAPA,Centennial,Englewood,CO,365,350,95.9,244,9,25,25,30,28,30,30,31,31,30,31,29,30,21,17,19,16,15,18,21,22,26,22,26,21,3282,no,https://rotatepilot.com/flight-training/flyable-days/kapa
+15,KBOI,Boise Air Terminal,Boise,ID,365,349,95.6,289,7,28,26,30,30,31,30,31,30,30,30,25,28,25,17,16,27,22,26,29,26,30,24,24,23,3281,no,https://rotatepilot.com/flight-training/flyable-days/kboi
+16,KBCT,Boca Raton,Boca Raton,FL,358,348,97.2,255,5,27,28,29,27,31,30,29,31,27,30,30,29,18,18,14,15,28,26,28,28,19,17,22,22,3001,no,https://rotatepilot.com/flight-training/flyable-days/kbct
+17,KPMP,Pompano Beach Airpark,Pompano Beach,FL,356,346,97.2,254,4,25,27,31,30,28,23,31,31,29,30,30,31,16,18,16,17,22,22,28,28,22,20,24,21,3197,no,https://rotatepilot.com/flight-training/flyable-days/kpmp
+18,KAJO,Corona Municipal,Corona,CA,364,346,95.1,260,1,30,26,31,29,30,30,31,31,29,27,26,26,17,20,25,19,16,17,23,24,26,25,24,24,3264,no,https://rotatepilot.com/flight-training/flyable-days/kajo
+19,KSEE,Gillespie Field,El Cajon,CA,358,345,96.4,286,4,31,23,28,30,31,28,31,31,29,29,25,29,29,18,19,22,18,20,27,31,24,26,25,27,3020,no,https://rotatepilot.com/flight-training/flyable-days/ksee
+20,KVRB,Vero Beach Regional,Vero Beach,FL,364,344,94.5,194,4,25,25,31,28,31,27,31,31,29,29,30,27,14,11,16,15,17,12,19,21,9,16,22,22,3269,no,https://rotatepilot.com/flight-training/flyable-days/kvrb
+21,KDAB,Daytona Beach International,Daytona Beach,FL,365,343,94,255,5,27,21,30,30,31,30,30,31,28,28,29,28,20,15,18,19,27,29,26,25,16,14,23,23,3279,no,https://rotatepilot.com/flight-training/flyable-days/kdab
+22,KHWD,Hayward Executive,Hayward,CA,362,340,93.9,204,0,28,24,31,30,31,27,30,29,29,29,26,26,21,17,18,20,12,14,10,18,17,21,19,17,3243,no,https://rotatepilot.com/flight-training/flyable-days/khwd
+23,KRAL,Riverside Municipal,Riverside,CA,364,340,93.4,211,2,29,25,31,25,29,29,31,31,28,24,29,29,18,16,21,15,6,14,17,20,16,21,24,23,3271,no,https://rotatepilot.com/flight-training/flyable-days/kral
+24,KVNY,Van Nuys,Los Angeles,CA,364,340,93.4,238,5,31,25,29,30,30,28,31,31,28,25,24,28,19,22,17,16,17,15,22,27,22,22,17,22,3266,no,https://rotatepilot.com/flight-training/flyable-days/kvny
+25,KSNA,John Wayne,Santa Ana,CA,365,340,93.2,217,4,29,22,30,30,30,30,30,31,28,30,28,22,17,17,20,20,16,12,13,22,21,22,21,16,3280,no,https://rotatepilot.com/flight-training/flyable-days/ksna
+26,KISM,Kissimmee Gateway,Kissimmee,FL,362,339,93.6,261,4,27,23,27,28,30,30,30,30,29,28,29,28,21,13,19,25,25,20,25,23,24,15,27,24,3244,no,https://rotatepilot.com/flight-training/flyable-days/kism
+27,KTIX,Space Coast Regional,Titusville,FL,363,339,93.4,267,2,26,22,30,28,30,29,30,31,30,25,30,28,19,13,19,22,21,26,26,30,24,18,26,23,3153,no,https://rotatepilot.com/flight-training/flyable-days/ktix
+28,KMYF,Montgomery-Gibbs Executive,San Diego,CA,364,339,93.1,239,4,31,24,26,29,30,25,31,31,27,30,28,27,26,19,14,19,14,16,18,27,22,20,21,23,3266,no,https://rotatepilot.com/flight-training/flyable-days/kmyf
+29,KFNL,Northern Colorado Regional,Fort Collins,CO,365,338,92.6,250,9,25,23,29,27,28,29,29,30,30,29,29,30,18,15,16,17,16,22,25,24,27,22,27,21,3283,no,https://rotatepilot.com/flight-training/flyable-days/kfnl
+30,KEMT,San Gabriel Valley,El Monte,CA,353,337,95.5,245,2,31,23,29,30,29,30,28,30,29,28,25,25,25,17,19,22,15,17,20,26,21,21,20,22,2927,no,https://rotatepilot.com/flight-training/flyable-days/kemt
+31,KSGR,Sugar Land Regional,Sugar Land,TX,363,337,92.8,207,5,24,23,30,29,30,29,31,30,29,30,29,23,14,8,9,10,11,18,24,28,28,24,21,12,3258,no,https://rotatepilot.com/flight-training/flyable-days/ksgr
+32,KCNO,Chino,Chino,CA,362,334,92.3,235,6,29,24,30,27,31,29,31,31,28,25,25,24,17,20,20,16,13,17,25,24,21,23,19,20,3244,no,https://rotatepilot.com/flight-training/flyable-days/kcno
+33,KLUK,Cincinnati Municipal Lunken,Cincinnati,OH,365,334,91.5,194,11,28,22,30,29,27,30,30,31,28,29,23,27,14,11,12,15,12,18,21,26,24,23,11,7,3282,no,https://rotatepilot.com/flight-training/flyable-days/kluk
+34,KRVS,Richard Lloyd Jones Jr.,Tulsa,OK,364,333,91.5,229,16,28,21,31,25,31,25,31,28,30,27,27,29,21,15,13,11,23,16,28,23,25,22,18,14,3255,no,https://rotatepilot.com/flight-training/flyable-days/krvs
+35,KSSF,Stinson Municipal,San Antonio,TX,365,333,91.2,168,11,26,22,28,30,29,30,30,31,29,29,29,20,15,9,10,7,14,7,10,25,23,20,16,12,3278,no,https://rotatepilot.com/flight-training/flyable-days/kssf
+36,KPAO,Palo Alto,Palo Alto,CA,355,332,93.5,201,3,29,26,30,29,30,30,31,28,27,29,20,23,25,21,17,19,16,14,10,13,17,19,16,14,3074,no,https://rotatepilot.com/flight-training/flyable-days/kpao
+37,KGKY,Arlington Municipal,Arlington,TX,365,332,91,200,15,28,20,30,25,27,29,30,29,30,30,29,25,16,12,12,9,13,14,22,26,24,23,19,10,3270,no,https://rotatepilot.com/flight-training/flyable-days/kgky
+38,KRHV,Reid-Hillview,San Jose,CA,354,331,93.5,262,4,30,27,29,26,29,29,31,30,29,28,23,20,22,20,20,19,24,28,26,25,23,20,21,14,3052,no,https://rotatepilot.com/flight-training/flyable-days/krhv
+39,KSFB,Orlando Sanford International,Sanford,FL,362,331,91.4,257,8,25,21,30,28,30,30,29,29,27,27,28,27,19,13,19,18,27,26,27,27,22,15,24,20,3236,no,https://rotatepilot.com/flight-training/flyable-days/ksfb
+40,KLVK,Livermore Municipal,Livermore,CA,361,330,91.4,220,7,30,27,28,29,30,30,31,31,30,28,20,16,21,20,14,19,20,22,19,26,17,18,15,9,3215,no,https://rotatepilot.com/flight-training/flyable-days/klvk
+41,KBJC,Rocky Mountain Metropolitan,Broomfield,CO,364,330,90.7,229,14,25,23,28,26,25,26,30,29,29,30,30,29,19,17,13,14,16,20,24,23,24,25,18,16,3030,no,https://rotatepilot.com/flight-training/flyable-days/kbjc
+42,KAFW,Fort Worth Alliance,Fort Worth,TX,365,330,90.4,190,14,28,18,29,28,26,29,30,28,30,30,29,25,15,12,10,10,13,15,18,22,24,23,19,9,3282,no,https://rotatepilot.com/flight-training/flyable-days/kafw
+43,KDTO,Denton Enterprise,Denton,TX,361,328,90.9,194,15,25,17,29,28,27,29,30,29,30,29,29,26,15,10,10,12,13,15,19,21,25,22,22,10,3224,no,https://rotatepilot.com/flight-training/flyable-days/kdto
+44,KLAL,Lakeland Linder,Lakeland,FL,359,327,91.1,233,5,27,20,28,28,29,24,30,31,27,30,28,25,21,15,19,23,19,12,21,23,20,14,26,20,3129,no,https://rotatepilot.com/flight-training/flyable-days/klal
+45,KSMO,Santa Monica,Santa Monica,CA,364,327,89.8,216,10,30,22,26,29,29,27,29,31,27,29,26,22,25,18,18,19,15,12,15,24,18,22,14,16,3267,no,https://rotatepilot.com/flight-training/flyable-days/ksmo
+46,KMQY,Smyrna,Smyrna,TN,364,327,89.8,220,14,29,23,30,28,24,28,31,29,29,27,24,25,18,14,18,17,10,20,25,22,24,24,15,13,3262,no,https://rotatepilot.com/flight-training/flyable-days/kmqy
+47,KDPA,DuPage,West Chicago,IL,365,326,89.3,184,18,26,24,27,29,27,27,30,31,30,30,24,21,11,14,6,13,16,14,21,22,26,19,11,11,3255,no,https://rotatepilot.com/flight-training/flyable-days/kdpa
+48,KCCR,Buchanan Field,Concord,CA,361,325,90,230,22,27,24,31,30,30,30,31,31,30,30,21,10,20,19,16,20,20,26,19,27,21,21,15,6,3248,no,https://rotatepilot.com/flight-training/flyable-days/kccr
+49,KADS,Addison,Addison,TX,363,325,89.5,215,20,28,17,29,27,29,27,30,28,29,29,27,25,20,12,14,9,17,13,19,26,26,23,22,14,3086,no,https://rotatepilot.com/flight-training/flyable-days/kads
+50,KANE,Anoka County-Blaine,Blaine,MN,364,325,89.3,226,15,30,25,28,27,30,27,28,28,26,27,26,23,19,19,21,16,21,17,23,22,20,19,16,13,3141,no,https://rotatepilot.com/flight-training/flyable-days/kane
+51,KPWK,Chicago Executive,Wheeling,IL,365,325,89,192,18,26,25,27,27,26,26,29,31,30,30,26,22,14,13,9,15,14,16,19,23,26,17,13,13,3272,no,https://rotatepilot.com/flight-training/flyable-days/kpwk
+52,KLOT,Lewis University,Romeoville,IL,364,323,88.7,185,17,26,24,26,27,27,27,29,31,30,30,25,21,11,14,8,10,13,15,20,22,28,21,13,10,3142,no,https://rotatepilot.com/flight-training/flyable-days/klot
+53,KOJC,Johnson County Executive,Olathe,KS,364,322,88.5,199,18,27,23,30,26,28,29,29,30,27,26,23,24,19,15,14,9,19,15,19,23,26,14,14,12,3267,no,https://rotatepilot.com/flight-training/flyable-days/kojc
+54,KRBD,Dallas Executive,Dallas,TX,363,321,88.4,196,17,27,18,29,24,26,27,29,28,29,30,29,25,15,13,9,9,14,13,21,27,26,23,16,10,3261,no,https://rotatepilot.com/flight-training/flyable-days/krbd
+55,KSAC,Sacramento Executive,Sacramento,CA,359,320,89.1,261,23,29,24,26,29,31,30,31,31,30,29,21,9,23,20,18,23,23,27,28,30,26,26,14,3,3216,no,https://rotatepilot.com/flight-training/flyable-days/ksac
+56,KOSU,Ohio State University,Columbus,OH,363,320,88.2,183,16,27,22,30,28,23,27,28,30,29,28,23,25,7,11,11,14,12,17,18,23,24,25,12,9,3251,no,https://rotatepilot.com/flight-training/flyable-days/kosu
+57,KJYO,Leesburg Executive,Leesburg,VA,364,320,87.9,231,17,28,23,27,26,23,24,29,26,27,30,28,29,15,12,14,16,16,20,22,21,25,23,22,25,3250,no,https://rotatepilot.com/flight-training/flyable-days/kjyo
+58,KSQL,San Carlos,San Carlos,CA,337,319,94.7,202,3,28,22,28,28,31,29,30,29,26,29,18,21,23,15,15,14,18,22,14,19,15,19,14,14,2639,no,https://rotatepilot.com/flight-training/flyable-days/ksql
+59,KCDW,Essex County,Caldwell,NJ,364,319,87.6,195,23,27,24,25,27,24,23,29,30,28,29,29,24,13,13,10,9,14,17,21,25,23,18,15,17,3266,no,https://rotatepilot.com/flight-training/flyable-days/kcdw
+60,KTOA,Zamperini Field,Torrance,CA,363,318,87.6,129,6,30,17,27,28,30,29,29,31,27,29,20,21,20,12,11,11,6,5,3,12,7,16,12,14,3142,no,https://rotatepilot.com/flight-training/flyable-days/ktoa
+61,KARR,Aurora Municipal,Aurora,IL,364,318,87.4,169,21,26,24,25,29,25,27,25,30,30,30,26,21,9,14,8,12,10,12,17,19,26,18,12,12,3273,no,https://rotatepilot.com/flight-training/flyable-days/karr
+62,KORL,Orlando Executive,Orlando,FL,335,317,94.6,251,4,29,23,29,15,30,27,19,30,29,27,30,29,21,15,19,11,25,25,17,28,25,17,26,22,2984,no,https://rotatepilot.com/flight-training/flyable-days/korl
+63,KYIP,Willow Run,Ypsilanti,MI,361,317,87.8,183,19,25,21,29,27,25,28,30,29,29,24,27,23,9,8,9,16,13,19,20,22,25,20,10,12,3233,no,https://rotatepilot.com/flight-training/flyable-days/kyip
+64,KFDK,Frederick Municipal,Frederick,MD,364,317,87.1,213,17,28,22,27,25,24,23,30,27,26,28,27,30,17,15,16,15,14,19,21,18,24,21,13,20,3119,no,https://rotatepilot.com/flight-training/flyable-days/kfdk
+65,KCRQ,McClellan-Palomar,Carlsbad,CA,357,316,88.5,201,14,28,22,27,29,30,22,29,30,20,28,26,25,22,16,17,21,10,8,11,20,15,18,23,20,3200,no,https://rotatepilot.com/flight-training/flyable-days/kcrq
+66,KSUS,Spirit of St. Louis,Chesterfield,MO,364,316,86.8,219,20,28,23,29,23,28,24,29,30,29,27,21,25,22,14,14,11,15,16,21,28,27,20,15,16,3273,no,https://rotatepilot.com/flight-training/flyable-days/ksus
+67,KOUN,Westheimer Field,Norman,OK,362,314,86.7,192,18,28,19,29,25,28,28,28,23,29,24,25,28,21,11,9,9,17,17,19,16,25,17,18,13,3064,no,https://rotatepilot.com/flight-training/flyable-days/koun
+68,KHEF,Manassas Regional,Manassas,VA,353,313,88.7,223,13,28,23,29,26,24,25,30,26,28,20,27,27,20,14,17,14,17,21,25,21,25,15,15,19,3171,no,https://rotatepilot.com/flight-training/flyable-days/khef
+69,KFUL,Fullerton Municipal,Fullerton,CA,336,312,92.9,199,10,31,14,13,30,30,30,31,31,27,28,26,21,23,9,10,23,14,9,18,24,21,20,15,13,3013,no,https://rotatepilot.com/flight-training/flyable-days/kful
+70,KCXO,Lone Star Executive,Conroe,TX,364,311,85.4,213,13,21,19,25,25,28,28,31,28,30,30,27,19,17,8,10,7,14,25,27,24,25,26,19,11,3261,no,https://rotatepilot.com/flight-training/flyable-days/kcxo
+71,KTTD,Portland-Troutdale,Troutdale,OR,339,310,91.4,169,4,24,25,30,29,31,17,22,25,28,27,25,27,7,7,10,20,21,9,20,22,17,13,11,12,3033,no,https://rotatepilot.com/flight-training/flyable-days/kttd
+72,KLGB,Long Beach Daugherty Field,Long Beach,CA,358,310,86.6,197,14,28,19,26,29,28,26,29,30,27,28,21,19,23,16,17,20,13,10,13,22,18,17,15,13,3167,no,https://rotatepilot.com/flight-training/flyable-days/klgb
+73,KFCM,Flying Cloud,Eden Prairie,MN,361,309,85.6,178,19,30,24,26,28,29,25,28,25,26,28,25,15,14,17,17,9,20,13,18,17,20,13,11,9,3243,no,https://rotatepilot.com/flight-training/flyable-days/kfcm
+74,KOWD,Norwood Memorial,Norwood,MA,365,309,84.7,178,31,28,23,23,23,23,26,27,31,26,24,28,27,12,11,8,12,12,16,18,24,23,15,15,12,3279,no,https://rotatepilot.com/flight-training/flyable-days/kowd
+75,KBFI,Boeing Field,Seattle,WA,365,309,84.7,181,15,22,21,27,27,30,29,30,28,24,29,22,20,12,12,11,15,21,18,20,18,19,13,12,10,3279,no,https://rotatepilot.com/flight-training/flyable-days/kbfi
+76,KTTA,Sanford-Lee County,Sanford,NC,351,308,87.7,239,20,28,23,29,29,24,26,22,22,26,27,26,26,25,16,22,20,19,20,16,16,21,24,21,19,3124,no,https://rotatepilot.com/flight-training/flyable-days/ktta
+77,KMMU,Morristown Municipal,Morristown,NJ,364,308,84.6,197,31,27,24,24,25,21,22,30,29,26,27,28,25,12,11,12,12,12,17,23,25,23,20,13,17,3152,no,https://rotatepilot.com/flight-training/flyable-days/kmmu
+78,KRNT,Renton Municipal,Renton,WA,354,307,86.7,199,9,15,23,27,29,30,22,29,29,27,30,23,23,10,13,10,18,23,15,24,20,20,21,14,11,3088,no,https://rotatepilot.com/flight-training/flyable-days/krnt
+79,KHPN,Westchester County,White Plains,NY,364,306,84.1,176,37,27,24,24,25,20,24,26,29,28,29,24,26,12,12,10,9,10,17,17,23,23,17,12,14,3271,no,https://rotatepilot.com/flight-training/flyable-days/khpn
+80,KFRG,Republic,Farmingdale,NY,364,305,83.8,158,35,28,24,23,24,20,22,27,30,26,29,26,26,11,11,9,8,11,13,19,21,21,14,7,13,3262,no,https://rotatepilot.com/flight-training/flyable-days/kfrg
+81,KISP,Long Island MacArthur,Islip,NY,365,305,83.6,152,40,27,23,24,24,22,22,28,29,27,28,25,26,9,10,11,11,10,15,17,21,18,11,7,12,3275,no,https://rotatepilot.com/flight-training/flyable-days/kisp
+82,KPOC,Brackett Field,La Verne,CA,335,302,90.1,241,8,28,17,22,23,27,25,30,31,27,23,24,25,25,16,16,15,16,13,23,29,23,20,21,24,2832,no,https://rotatepilot.com/flight-training/flyable-days/kpoc
+83,KJQF,Concord-Padgett Regional,Concord,NC,356,302,84.8,208,34,28,19,28,27,22,28,28,21,24,28,28,21,21,13,16,18,14,23,19,14,18,16,21,15,3090,no,https://rotatepilot.com/flight-training/flyable-days/kjqf
+84,KUZA,Rock Hill-York County,Rock Hill,SC,345,301,87.2,227,18,26,22,29,28,24,29,28,23,21,18,27,26,22,16,18,17,15,23,22,20,21,16,20,17,3088,no,https://rotatepilot.com/flight-training/flyable-days/kuza
+85,KGTU,Georgetown Municipal,Georgetown,TX,335,300,89.6,176,10,25,22,27,26,7,26,28,29,29,31,26,24,16,10,8,8,5,12,17,26,24,23,16,11,3007,no,https://rotatepilot.com/flight-training/flyable-days/kgtu
+86,KDWH,David Wayne Hooks,Houston,TX,350,300,85.7,218,9,22,21,17,23,27,26,31,30,29,30,24,20,15,9,8,9,19,18,30,27,27,25,19,12,3133,no,https://rotatepilot.com/flight-training/flyable-days/kdwh
+87,KGAI,Montgomery County Airpark,Gaithersburg,MD,352,300,85.2,212,22,26,22,27,23,23,19,29,27,27,30,25,22,17,15,16,16,16,16,19,21,24,23,14,15,3161,no,https://rotatepilot.com/flight-training/flyable-days/kgai
+88,KGFK,Grand Forks International,Grand Forks,ND,365,299,81.9,133,32,21,21,29,25,26,27,24,26,24,28,26,22,9,9,15,11,13,14,12,11,10,9,11,9,3283,no,https://rotatepilot.com/flight-training/flyable-days/kgfk
+89,KFFC,Peachtree City Falcon Field,Peachtree City,GA,354,296,83.6,216,15,27,23,27,27,22,26,27,23,27,23,24,20,22,16,15,19,13,21,21,15,24,21,17,12,3176,no,https://rotatepilot.com/flight-training/flyable-days/kffc
+90,KRYY,Cobb County,Kennesaw,GA,358,296,82.7,208,23,25,23,28,24,23,25,29,21,25,24,26,23,19,14,18,17,9,17,23,12,24,20,20,15,3160,no,https://rotatepilot.com/flight-training/flyable-days/kryy
+91,KBED,Hanscom Field,Bedford,MA,363,296,81.5,165,37,28,23,22,18,22,23,27,29,25,24,28,27,11,8,9,9,10,18,16,23,21,17,11,12,3246,no,https://rotatepilot.com/flight-training/flyable-days/kbed
+92,KPTK,Oakland County International,Pontiac,MI,365,296,81.1,161,30,17,17,27,27,24,27,28,28,28,29,25,19,2,6,10,15,12,15,18,22,23,19,9,10,3281,no,https://rotatepilot.com/flight-training/flyable-days/kptk
+93,KPDK,DeKalb-Peachtree,Atlanta,GA,362,289,79.8,207,23,25,22,27,24,22,25,28,22,26,23,23,22,18,15,13,16,13,18,24,14,23,21,19,13,3250,no,https://rotatepilot.com/flight-training/flyable-days/kpdk
+94,KHIO,Hillsboro,Hillsboro,OR,353,285,80.7,194,24,18,19,25,28,23,29,31,29,27,19,20,17,15,9,7,21,14,20,28,26,19,13,12,10,3128,no,https://rotatepilot.com/flight-training/flyable-days/khio
+95,KLZU,Gwinnett County,Lawrenceville,GA,347,264,76.1,206,35,22,22,26,23,16,24,28,18,29,23,12,21,18,16,16,18,11,16,24,14,25,21,11,16,3093,no,https://rotatepilot.com/flight-training/flyable-days/klzu
+96,KPAE,Paine Field,Everett,WA,360,259,71.9,172,54,19,17,21,25,23,26,26,24,18,22,20,18,12,13,9,13,17,19,20,19,12,16,12,10,3231,no,https://rotatepilot.com/flight-training/flyable-days/kpae
+,KFXE,Fort Lauderdale Executive,Fort Lauderdale,FL,320,311,97.2,228,2,27,28,30,29,31,30,30,31,29,30,4,12,18,19,17,16,28,19,26,31,20,21,3,10,2873,yes,
+,KFFZ,Falcon Field,Mesa,AZ,275,275,100,242,0,30,20,20,25,31,30,31,31,30,27,0,0,26,20,15,21,27,25,28,31,25,24,0,0,2433,yes,
+,KHYI,San Marcos Regional,San Marcos,TX,302,270,89.4,138,9,0,2,22,25,29,25,29,31,29,27,29,22,0,0,5,6,14,11,10,24,23,21,13,11,2700,yes,
+,KTMB,Miami Executive,Miami,FL,270,257,95.2,185,3,24,28,22,30,30,28,13,0,1,22,30,29,16,21,14,16,24,20,12,0,1,14,24,23,2419,yes,
